@@ -126,3 +126,12 @@ main section {
     padding: 15px;
     border-radius: 5px;
 }
+
+/* footer styles */
+footer {
+    margin-top: 50px;
+    background-color: rgb(223, 255, 244);
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 150px;
+}
